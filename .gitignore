@@ -8,6 +8,7 @@
 .coverage*
 .noseids
 .DS_STORE
+.idea
 coverage.xml
 nosetests.xml
 pep8.txt
